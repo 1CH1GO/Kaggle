@@ -9,5 +9,5 @@
 
 ### TODO
 1. Improve my score and rank
-2. Learn more techniques and resubmit
-3. Try to get top 6 % :neutral:
+2. Learn more techniques and resubmit. 
+3. Try to get top 6 % :scream:
