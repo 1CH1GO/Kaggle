@@ -1,1 +1,6 @@
+* My score
+
+
+* My rank
+
 
