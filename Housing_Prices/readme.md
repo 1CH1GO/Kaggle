@@ -4,7 +4,7 @@
 
 ---
 
-* My rank
+* My rank (175k :sob:)
 
 ![](https://github.com/1CH1GO/Kaggle/blob/master/Housing_Prices/images/Screenshot%20from%202020-06-25%2013-54-48.png?raw=true)
 
