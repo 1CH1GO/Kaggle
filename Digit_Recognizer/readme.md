@@ -25,4 +25,4 @@ I used convolution networks and the accuracy went from 97.357 to 98.603 which is
 ### TODO
 1. Improve my score and rank
 2. Learn more techniques and resubmit.  
-3. Try to get top 6 % (currently top 72 % :scream:)
+3. Try to get top 6 % (currently top 52 % :scream:)
