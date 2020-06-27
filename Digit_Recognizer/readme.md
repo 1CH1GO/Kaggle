@@ -6,6 +6,21 @@
 
 ![](https://github.com/1CH1GO/Kaggle/blob/master/Digit_Recognizer/images/Screenshot%20from%202020-06-25%2013-42-14.png?raw=true)
 
+---
+
+### Update
+
+I used convolution networks and the accuracy went from 97.357 to 98.603 which is fine but i am not yet satisfied.
+
+* My score
+
+![](https://github.com/1CH1GO/Kaggle/blob/master/Digit_Recognizer/images/Screenshot%20from%202020-06-27%2015-35-53.png?raw=true)
+
+* My rank
+
+![](https://github.com/1CH1GO/Kaggle/blob/master/Digit_Recognizer/images/Screenshot%20from%202020-06-27%2015-35-18.png?raw=true)
+
+---
 
 ### TODO
 1. Improve my score and rank
