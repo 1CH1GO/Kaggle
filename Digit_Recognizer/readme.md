@@ -32,4 +32,4 @@ Improved using CNN score from 98.603 to 98.917
 ### TODO
 1. Improve my score and rank
 2. Learn more techniques and resubmit.  
-3. Try to get top 6 % (currently top 52 % :scream:)
+3. ~~Try to get top 6 % (currently top 52 % :scream:)~~ Not possible after seeing top-1 notebooks. :unamused:
