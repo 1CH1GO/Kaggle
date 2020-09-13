@@ -25,6 +25,8 @@ I used convolution networks and the accuracy went from 97.357 to 98.603 which is
 
 Improved using CNN score from 98.603 to 98.917
 
+![](https://github.com/gpk2000/Kaggle/blob/master/Digit_Recognizer/images/Sun%20Sep%2013%2004:04:52%20PM%20IST%202020?raw=true)
+
 ---
 
 ### TODO
