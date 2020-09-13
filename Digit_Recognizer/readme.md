@@ -20,6 +20,11 @@ I used convolution networks and the accuracy went from 97.357 to 98.603 which is
 
 ![](https://github.com/1CH1GO/Kaggle/blob/master/Digit_Recognizer/images/Screenshot%20from%202020-06-27%2015-35-18.png?raw=true)
 
+
+### Update 2
+
+Improved using CNN score from 98.603 to 98.917
+
 ---
 
 ### TODO
